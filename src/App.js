@@ -9,6 +9,7 @@ function App() {
   //     <Route path="/" element={<LoginPage />} />
   //   </Routes>
   // </Router>
+  // "homepage": "https://fokichevam.github.io/social_net",
 }
 
 export default App;
