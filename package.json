@@ -2,7 +2,7 @@
   "name": "social_net",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://fokichevam.github.io/social_net/index.html",
+  "homepage": "https://fokichevam.github.io/social_net",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
