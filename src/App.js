@@ -3,7 +3,7 @@ import React from 'react';
 // import LoginPage from './pages/LoginPage';
 
 function App() {
-  return <div>'Пісюн's</div>;
+  return <div>'Пісюн'sAAA</div>;
   // <Router>
   //   <Routes>
   //     <Route path="/" element={<LoginPage />} />
