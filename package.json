@@ -28,12 +28,6 @@
     "GitHub",
     "Pages"
   ],
-  "bugs": {
-    "url": "https://github.com/actions/deploy-pages/issues"
-  },
-  "homepage": "https://github.com/actions/deploy-pages#readme",
-  "author": "GitHub",
-  "license": "MIT",
   "eslintConfig": {
     "extends": [
       "react-app",
