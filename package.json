@@ -1,7 +1,8 @@
 {
-  "name": "social_network_t",
-  "version": "0.1.0",
+  "name": "social_net",
+  "version": "0.2.0",
   "private": true,
+  "main": "./dist/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -19,6 +20,20 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/actions/deploy-pages.git"
+  },
+  "keywords": [
+    "GitHub",
+    "Pages"
+  ],
+  "bugs": {
+    "url": "https://github.com/actions/deploy-pages/issues"
+  },
+  "homepage": "https://github.com/actions/deploy-pages#readme",
+  "author": "GitHub",
+  "license": "MIT",
   "eslintConfig": {
     "extends": [
       "react-app",
